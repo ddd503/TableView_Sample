@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animals</key>
+	<array>
+		<dict>
+			<key>text</key>
+			<string>ライオン
+ネコ科で最も肩口までが高く、体重もトラに次いで2番目に重い。力強い脚部と強力な顎をもち、約8センチメートルの犬歯を備え、大型の獲物でも引き倒し、狩ることができる。</string>
+			<key>imageName</key>
+			<string>lion.jpg</string>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string></string>
+			<key>imageName</key>
+			<string>horse.jpg</string>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>虎
+メスよりもオスの方が大型になる。腹部の皮膚は弛んで襞状になる。背面は黄色や黄褐色で、黒い横縞が入る。縞模様は藪などでは周囲に溶けこみ輪郭を不明瞭にし、獲物に気付かれずに忍び寄ったり待ち伏せることに適している。腹面や四肢内側は白い。黒化個体の発見例はないが、インドでは白化個体の発見例がある。
+鼻面は太くて短く、顎の力が強い。前肢の筋肉は発達し、後肢は前肢よりも長い。これにより前肢は長い爪も含め獲物を押さえつけることに、後肢は跳躍に適している。</string>
+			<key>imageName</key>
+			<string>tiger.jpg</string>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>カバ
+体重オス1600 - 3200キログラム、メス1400キログラム。陸上動物としてはゾウに次ぐ重さとされる。分厚い脂肪と真皮・上皮で覆われるが、表皮は非常に薄い。このため毛細管現象により水分は外側へ放出してしまう。皮膚は乾燥すると裂けてしまい、水分消失量は5平方センチメートルあたり10分で12ミリグラムともされこれは人間の約3 - 5倍の水分消失量にあたる。</string>
+			<key>imageName</key>
+			<string>hippopotamus.jpg</string>
+		</dict>
+	</array>
+</dict>
+</plist>
